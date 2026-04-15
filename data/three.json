@@ -1,30 +1,33 @@
 {
-  "updated_at": "2026-04-15 23:30:00",
-  "balance": 9980.00,
-  "available": 4990.00,
-  "unrealized_pnl": 15.40,
+  "updated_at": "2026-04-15 06:31:16",
+  "balance": 89141.8,
+  "available": 9458.13,
+  "frozen": 0.0,
+  "unrealized_pnl": 19.7076,
   "bot_status": "running",
   "positions": {
     "long": {
-      "entry_price": 2315.50,
-      "current_price": 2323.00,
-      "unrealized_pnl": 7.50,
+      "entry_price": 2394.23,
+      "current_price": 2313.22,
+      "unrealized_pnl": -8.115000000000009,
       "sz": 1
     },
     "short": {
-      "entry_price": 2345.00,
-      "current_price": 2323.00,
-      "unrealized_pnl": 7.90,
-      "sz": 1
+      "entry_price": 2406.0286666666666,
+      "current_price": 2313.22,
+      "unrealized_pnl": 27.884600000000002,
+      "sz": 3
     }
   },
   "stats": {
-    "total_trades": 45,
-    "wins": 42,
-    "losses": 3,
-    "win_rate": 0.933,
-    "total_pnl": 892.30,
-    "total_rounds": 21,
-    "profit_takes": 42
+    "total_trades": 90,
+    "wins": 88,
+    "losses": 0,
+    "win_rate": 0,
+    "total_pnl": -202.0579799999995,
+    "total_rounds": 43,
+    "profit_takes": 88,
+    "realized_pnl_long": 28.451699999998254,
+    "realized_pnl_short": -24.945099999997637
   }
 }
